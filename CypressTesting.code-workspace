@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "MyCypress",
+			"path": "."
+		},
+		{
+			"name": "Admin",
+			"path": "../Admin"
+		},
+		{
+			"name": "Book-Shop-FrontEnd",
+			"path": "D:/drive-download-20240311T143851Z-001/Book-Shop-FrontEnd"
+		},
+		{
+			"name": "Book-Shop-Admin-FrontEnd",
+			"path": "E:/drive-download-20240311T143851Z-001/Book-Shop-Admin-FrontEnd"
+		}
+	],
+	"settings": {}
+}
